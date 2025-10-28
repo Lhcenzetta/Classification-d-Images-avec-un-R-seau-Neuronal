@@ -2,7 +2,6 @@ Fashion MNIST Classification
 This project builds a deep learning model to classify fashion images from the Fashion-MNIST dataset using TensorFlow and Keras.
 Dataset
 Fashion-MNIST contains 60,000 training images and 10,000 test images of 28x28 grayscale pixels.  
-There are 10 classes of clothing: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot.
 
 Data Preparation
 
